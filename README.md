@@ -1,16 +1,9 @@
-# quotes_json_local
+# quotes_json_local 2
 
-Quotes App using Local Json
+Quotes App using Local Json 2
 
-## Getting Started
+## This is the outcome
 
-This project is a starting point for a Flutter application.
+![quotes2 gif](https://user-images.githubusercontent.com/74512232/168801278-37b33419-2179-477d-997b-0f57262f39ea.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
